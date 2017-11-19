@@ -1,0 +1,25 @@
+{
+  "name": "cses-competition",
+  "version": "1.0.0",
+  "description": "competition entry ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3t0/cses-competition.git"
+  },
+  "author": "",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/z3t0/cses-competition/issues"
+  },
+  "homepage": "https://github.com/z3t0/cses-competition#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
